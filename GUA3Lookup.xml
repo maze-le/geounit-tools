@@ -1,0 +1,221 @@
+<?xml?>
+<!DOCTYPE ROOT>
+<ROOT>
+<!-- 
+  Lookup File, to resolve a country name (Data from data.un.org) 
+      to its ISO-3166-1 alpabetic 3-Character Geounit Code.
+  
+  Not Completed; 209 records.
+-->
+    <data>
+        <record ctr="Afghanistan" gua3="AFG" />
+        <record ctr="Albania" gua3="ALB" />
+        <record ctr="Algeria" gua3="DZA" />
+        <record ctr="Andorra" gua3="AND" />
+        <record ctr="Angola" gua3="AGO" />
+        <record ctr="Antigua and Barbuda" gua3="ANT" />
+        <record ctr="Argentina" gua3="ARG" />
+        <record ctr="Armenia" gua3="ARM" />
+        <record ctr="Aruba" gua3="ARU" />
+        <record ctr="Australia" gua3="AUS" />
+        <record ctr="Austria" gua3="AUT" />
+        <record ctr="Azerbaijan" gua3="AZE" />
+        <record ctr="Bahamas" gua3="BHS" />
+        <record ctr="Bahrain" gua3="BHR" />
+        <record ctr="Bangladesh" gua3="BGD" />
+        <record ctr="Barbados" gua3="BRB" />
+        <record ctr="Belarus" gua3="BLR" />
+        <record ctr="Belgium" gua3="BEL" />
+        <record ctr="Belize" gua3="BLZ" />
+        <record ctr="Benin" gua3="BEN" />
+        <record ctr="Bermuda" gua3="BER" />
+        <record ctr="Bhutan" gua3="BTN" />
+        <record ctr="Bolivia" gua3="BOL" />
+        <record ctr="Bosnia and Herzegovina" gua3="BIH" />
+        <record ctr="Botswana" gua3="BWA" />
+        <record ctr="Brazil" gua3="BRA" />
+        <record ctr="Brunei Darussalam" gua3="BRN" />
+        <record ctr="Bulgaria" gua3="BGR" />
+        <record ctr="Burkina Faso" gua3="BFA" />
+        <record ctr="Burundi" gua3="BDI" />
+        <record ctr="Cambodia" gua3="KHM" />
+        <record ctr="Cameroon" gua3="CMR" />
+        <record ctr="Canada" gua3="CAN" />
+        <record ctr="Cape Verde" gua3="CPV" />
+        <record ctr="Cayman Islands" gua3="GBC" />
+        <record ctr="Central African Rep." gua3="CAF" />
+        <record ctr="Chad" gua3="TCD" />
+        <record ctr="Chile" gua3="CHL" />
+        <record ctr="China" gua3="CHN" />
+        <record ctr="Colombia" gua3="COL" />
+        <record ctr="Comoros" gua3="COM" />
+        <record ctr="Congo" gua3="COG" />
+        <record ctr="Congo (Democratic Republic of the)" gua3="COD" />
+        <record ctr="Costa Rica" gua3="CRI" />
+        <record ctr="Cote d'Ivoire" gua3="CIV" />
+        <record ctr="Croatia" gua3="HRV" />
+        <record ctr="Cuba" gua3="CUB" />
+        <record ctr="Cyprus" gua3="CYP" />
+        <record ctr="Czech Republic" gua3="CZE" />
+        <record ctr="Dem. People's Rep. of Korea" gua3="PRK" />
+        <record ctr="Denmark" gua3="DNK" />
+        <record ctr="Djibouti" gua3="DJI" />
+        <record ctr="Dominica" gua3="DMC" />
+        <record ctr="Dominican Rep." gua3="DOM" />
+        <record ctr="Ecuador" gua3="ECU" />
+        <record ctr="Egypt" gua3="EGY" />
+        <record ctr="El Salvador" gua3="SLV" />
+        <record ctr="Equatorial Guinea" gua3="GNQ" />
+        <record ctr="Eritrea" gua3="ERI" />
+        <record ctr="Estonia" gua3="EST" />
+        <record ctr="Ethiopia" gua3="ETH" />
+        <record ctr="Faroe Islands" gua3="FRO" />
+        <record ctr="Fiji" gua3="FJI" />
+        <record ctr="Finland" gua3="FIN" />
+        <record ctr="France" gua3="FRA" />
+        <record ctr="French Guiana" gua3="FRG" />
+        <record ctr="French Polynesia" gua3="FRP" />
+        <record ctr="Gabon" gua3="GAB" />
+        <record ctr="Gambia" gua3="GMB" />
+        <record ctr="Georgia" gua3="GEO" />
+        <record ctr="Germany" gua3="DEU" />
+        <record ctr="Ghana" gua3="GHA" />
+        <record ctr="Gibraltar" gua3="GBB" />
+        <record ctr="Greece" gua3="GRC" />
+        <record ctr="Greenland" gua3="GRE" />
+        <record ctr="Grenada" gua3="GRD" />
+        <record ctr="Guam" gua3="GUM" />
+        <record ctr="Guatemala" gua3="GTM" />
+        <record ctr="Guernsey" gua3="GBG" />
+        <record ctr="Guinea" gua3="GIN" />
+        <record ctr="Guinea-Bissau" gua3="GNB" />
+        <record ctr="Guyana" gua3="GUY" />
+        <record ctr="Haiti" gua3="HTI" />
+        <record ctr="Honduras" gua3="HND" />
+        <record ctr="Hong Kong, China" gua3="CHH" />
+        <record ctr="Hungary" gua3="HUN" />
+        <record ctr="Iceland" gua3="ISL" />
+        <record ctr="India" gua3="IND" />
+        <record ctr="Indonesia" gua3="IDN" />
+        <record ctr="Iran (Islamic Rep. of)" gua3="IRN" />
+        <record ctr="Iraq" gua3="IRQ" />
+        <record ctr="Ireland" gua3="IRL" />
+        <record ctr="Israel" gua3="ISR" />
+        <record ctr="Italy" gua3="ITA" />
+        <record ctr="Jamaica" gua3="JAM" />
+        <record ctr="Japan" gua3="JPN" />
+        <record ctr="Jersey" gua3="GBJ" />
+        <record ctr="Jordan" gua3="JOR" />
+        <record ctr="Kazakhstan" gua3="KAZ" />
+        <record ctr="Kenya" gua3="KEN" />
+        <record ctr="Kiribati" gua3="KBT" />
+        <record ctr="Korea (Rep. of)" gua3="KOR" />
+        <record ctr="Kuwait" gua3="KWT" />
+        <record ctr="Kyrgyzstan" gua3="KGZ" />
+        <record ctr="Lao P.D.R." gua3="LAO" />
+        <record ctr="Latvia" gua3="LVA" />
+        <record ctr="Lebanon" gua3="LBN" />
+        <record ctr="Lesotho" gua3="LSO" />
+        <record ctr="Liberia" gua3="LBR" />
+        <record ctr="Libya" gua3="LBY" />
+        <record ctr="Liechtenstein" gua3="LIE" />
+        <record ctr="Lithuania" gua3="LTU" />
+        <record ctr="Luxembourg" gua3="LUX" />
+        <record ctr="Macao, China" gua3="CHM" />
+        <record ctr="Madagascar" gua3="MDG" />
+        <record ctr="Malawi" gua3="MWI" />
+        <record ctr="Malaysia" gua3="MYS" />
+        <record ctr="Maldives" gua3="MLD" />
+        <record ctr="Mali" gua3="MLI" />
+        <record ctr="Malta" gua3="MAL" />
+        <record ctr="Marshall Islands" gua3="MSI" />
+        <record ctr="Mauritania" gua3="MRT" />
+        <record ctr="Mauritius" gua3="MTS" />
+        <record ctr="Mexico" gua3="MEX" />
+        <record ctr="Micronesia (Fed. States of)" gua3="MIC" />
+        <record ctr="Moldova" gua3="MDA" />
+        <record ctr="Mongolia" gua3="MNG" />
+        <record ctr="Montenegro" gua3="MNE" />
+        <record ctr="Morocco" gua3="MAR" />
+        <record ctr="Mozambique" gua3="MOZ" />
+        <record ctr="Myanmar" gua3="MMR" />
+        <record ctr="Namibia" gua3="NAM" />
+        <record ctr="Nauru" gua3="NRU" />
+        <record ctr="Nepal" gua3="NPL" />
+        <record ctr="Netherlands" gua3="NLD" />
+        <record ctr="Netherlands Antilles" gua3="NLA" />
+        <record ctr="New Caledonia" gua3="NCD" />
+        <record ctr="New Zealand" gua3="NZL" />
+        <record ctr="Nicaragua" gua3="NIC" />
+        <record ctr="Niger" gua3="NER" />
+        <record ctr="Nigeria" gua3="NGA" />
+        <record ctr="Norway" gua3="NOR" />
+        <record ctr="Oman" gua3="OMN" />
+        <record ctr="Pakistan" gua3="PAK" />
+        <record ctr="Palau" gua3="PLU" />
+        <record ctr="Palestinian Authority" gua3="WEB" />
+        <record ctr="Panama" gua3="PAN" />
+        <record ctr="Papua New Guinea" gua3="PNG" />
+        <record ctr="Paraguay" gua3="PRY" />
+        <record ctr="Peru" gua3="PER" />
+        <record ctr="Philippines" gua3="PHL" />
+        <record ctr="Poland" gua3="POL" />
+        <record ctr="Portugal" gua3="PRT" />
+        <record ctr="Puerto Rico" gua3="USP" />
+        <record ctr="Qatar" gua3="QAT" />
+        <record ctr="Romania" gua3="ROU" />
+        <record ctr="Russia" gua3="RUS" />
+        <record ctr="Rwanda" gua3="RWA" />
+        <record ctr="Saint Kitts and Nevis" gua3="SKI" />
+        <record ctr="Saint Lucia" gua3="STL" />
+        <record ctr="Samoa" gua3="SAM" />
+        <record ctr="San Marino" gua3="SMI" />
+        <record ctr="Sao Tome and Principe" gua3="STP" />
+        <record ctr="Saudi Arabia" gua3="SAU" />
+        <record ctr="Senegal" gua3="SEN" />
+        <record ctr="Serbia" gua3="SRB" />
+        <record ctr="Seychelles" gua3="SYC" />
+        <record ctr="Sierra Leone" gua3="SLE" />
+        <record ctr="Singapore" gua3="SIN" />
+        <record ctr="Slovak Republic" gua3="SVK" />
+        <record ctr="Slovenia" gua3="SVN" />
+        <record ctr="Solomon Islands" gua3="SOI" />
+        <record ctr="Somalia" gua3="SOM" />
+        <record ctr="South Africa" gua3="ZAF" />
+        <record ctr="Spain" gua3="ESP" />
+        <record ctr="Sri Lanka" gua3="LKA" />
+        <record ctr="St. Vincent and the Grenadines" gua3="SVI" />
+        <record ctr="Sudan" gua3="SDN" />
+        <record ctr="Suriname" gua3="SUR" />
+        <record ctr="Swaziland" gua3="SWZ" />
+        <record ctr="Sweden" gua3="SWE" />
+        <record ctr="Switzerland" gua3="CHE" />
+        <record ctr="Syria" gua3="SYR" />
+        <record ctr="T.F.Y.R. Macedonia" gua3="MKD" />
+        <record ctr="Tajikistan" gua3="TJK" />
+        <record ctr="Tanzania" gua3="TZA" />
+        <record ctr="Thailand" gua3="THA" />
+        <record ctr="Timor-Leste" gua3="TLS" />
+        <record ctr="Togo" gua3="TGO" />
+        <record ctr="Tonga" gua3="TON" />
+        <record ctr="Trinidad and Tobago" gua3="TTO" />
+        <record ctr="Tunisia" gua3="TUN" />
+        <record ctr="Turkey" gua3="TUR" />
+        <record ctr="Turkmenistan" gua3="TKM" />
+        <record ctr="Tuvalu" gua3="TVU" />
+        <record ctr="Uganda" gua3="UGA" />
+        <record ctr="Ukraine" gua3="UKR" />
+        <record ctr="United Arab Emirates" gua3="ARE" />
+        <record ctr="United Kingdom" gua3="GBR" />
+        <record ctr="United States" gua3="USA" />
+        <record ctr="Uruguay" gua3="URY" />
+        <record ctr="Uzbekistan" gua3="UZB" />
+        <record ctr="Vanuatu" gua3="VUT" />
+        <record ctr="Venezuela" gua3="VEN" />
+        <record ctr="Viet Nam" gua3="VNM" />
+        <record ctr="Virgin Islands (U.S.)" gua3="USV" />
+        <record ctr="Yemen" gua3="YEM" />
+        <record ctr="Zambia" gua3="ZMB" />
+        <record ctr="Zimbabwe" gua3="ZWE" />
+    </data>
+</ROOT>
